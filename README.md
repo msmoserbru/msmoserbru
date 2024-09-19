@@ -1,10 +1,11 @@
-## Hi there 👋
-# Eu sou a Bruna!
+## Hi there 👋 Eu sou a Bruna!
 _No Brasil já fui tester, professora de inglês e ciências, administradora, secretária bilíngue... na Irlanda fui cozinheira, repositora, caixa de supermercado, lavadora de pratos..._
 
 **É versátil que chama?** 😄
 
 _Fiz faculdade de nutrição, letras inglês e agora ADS._ Tudo porque eu sou curiosa 🤓 e tenho uma família maravilhosa que me dá apoio 🤗. 
+
+# Hoje em dia...
 
 🌱 Tô aprendendo  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) e [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]
 
