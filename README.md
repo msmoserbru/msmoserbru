@@ -4,6 +4,7 @@ _No Brasil já fui tester, professora de inglês e ciências, administradora, se
 **É versátil que chama?** 😄
 
 _Fiz faculdade de nutrição, letras inglês e agora ADS._ 
+
 Tudo porque eu sou curiosa 🤓 e tenho uma família maravilhosa que me dá apoio 🤗. 
 
 # Hoje em dia...
